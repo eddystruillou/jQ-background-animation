@@ -1,0 +1,9 @@
+body {
+  background: white;
+  transition: background 2s;
+}
+button {
+  font-size: 24px;
+  padding: 10px;
+  margin: 10px;
+}
